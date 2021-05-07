@@ -1,0 +1,14 @@
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Services.deps.json
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Services.dll
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Services.pdb
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Models.dll
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Models.pdb
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.csprojAssemblyReference.cache
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.AssemblyInfoInputs.cache
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.AssemblyInfo.cs
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.csproj.CoreCompileInputs.cache
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.csproj.CopyComplete
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.dll
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\obj\Release\netstandard2.0\Shopping.Services.pdb
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Repositories.dll
+C:\Users\10210531\source\repos\ShoppingApi\Shopping.Services\bin\Release\netstandard2.0\Shopping.Repositories.pdb

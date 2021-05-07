@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shopping.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Shopping.Api.Controllers.ShoppingController.GetShoppingUserAsync">
+            <summary>
+            Returns shopping user details
+            </summary>
+            <returns>Shopping User <see cref="T:Shopping.Models.ShoppingUser"/></returns>
+        </member>
+        <member name="M:Shopping.Api.Controllers.ShoppingController.GetSortedProductsAsync(Shopping.Models.Enums.SortOption)">
+            <summary>
+            Returns sorted list of products
+            </summary>
+            <returns>Products List</returns>
+        </member>
+        <member name="M:Shopping.Api.Controllers.ShoppingController.CalculateTrolleyTotal(Shopping.Models.CalculateTrolleyTotalRequest)">
+            <summary>
+            Calculates the lowest possible total amount for the products in trolley applying specials and promotions
+            </summary>
+            <returns>Trolley Total</returns>
+        </member>
+    </members>
+</doc>
