@@ -42,8 +42,8 @@ Use Xunit unit test framework and Moq mocking framework for creating unit tests.
 
 Hosted application to azure app service. The urls are below:
 
-Base Url : https://shoppingapi20210506101400.azurewebsites.net/shopping
-Exercise1(including method) : https://shoppingapi20210506101400.azurewebsites.net/shopping/user
-Exercise2: https://shoppingapi20210506101400.azurewebsites.net/shopping/sort
-Exercise3: https://shoppingapi20210506101400.azurewebsites.net/shopping/trolleyTotal
-HealthCheck: https://shoppingapi20210506101400.azurewebsites.net/health
+Base Url : https://shoppingapi20210506101400.azurewebsites.net/shopping <br/>
+Exercise1(including method) : https://shoppingapi20210506101400.azurewebsites.net/shopping/user <br/>
+Exercise2: https://shoppingapi20210506101400.azurewebsites.net/shopping/sort <br/>
+Exercise3: https://shoppingapi20210506101400.azurewebsites.net/shopping/trolleyTotal <br/>
+HealthCheck: https://shoppingapi20210506101400.azurewebsites.net/health <br/>
